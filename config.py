@@ -95,3 +95,6 @@ LOG_FILTER = [
     (logging.WARN, "Empty alt attribute for image %s in %s"),
     (logging.WARN, "Meta tag in file %s does not have a 'name' attribute, skipping. Attributes: content=%s")
 ]
+
+
+## test edit
